@@ -1,15 +1,42 @@
 <!-- ### Hi there 👋, I am Swetha Muralidharan A.k.a Sherlin  -->
 <!-- <h1 align="center"> Hi there 👋</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F86B92&repeat=false&width=435&lines=I+am+Swetha+Muralidharan" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <b> A.k.a Sherlin,  a self-motivated front end Developer and UI/UX Designer.
+ -->
+ 
+<h2> Hi, I'm Swetha Muralidharan A.k.a Sherlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p>
+  <em>
+    Front end Developer and UI/UX Designer 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
 </p>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class UI/UX Engineer:
+
+    def __init__(self):
+        self.name = "Swetha Muralidharan"
+        self.role = "UI/UX Engineer"
+        self.language_spoken = ["English", "Tamil", "Hindi", "Korean"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 <p align="center">
   <a href="https://git.io/streak-stats">
