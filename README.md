@@ -9,35 +9,33 @@
  -->
  
 <h2> Hi, I'm Swetha Muralidharan A.k.a Sherlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 <p>
   <em>
     Front end Developer and UI/UX Designer 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
   </em>
 </p>
 
-
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class UI/UX Engineer:
+class UI_UX_Engineer:
 
     def __init__(self):
         self.name = "Swetha Muralidharan"
         self.role = "UI/UX Engineer"
         self.language_spoken = ["English", "Tamil", "Hindi", "Korean"]
+        self.Hobbies = ["Dancing","Playing Instruments", "Painting"]
+        
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = UI_UX_Engineer()
 me.say_hi()
 ```
 
+## Streaks
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sherlin2003&amp;theme=dracula&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
@@ -52,7 +50,7 @@ me.say_hi()
 
 
 <h2>Languages</h2>
-<p>
+<p align="center">
   <a href="https://github.com/sherlin2003/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlin2003&amp;theme=dracula" alt="Top Langs">
   </a>
@@ -67,6 +65,7 @@ me.say_hi()
 
 <br> 
 
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sherlin2003&amp;show_icons=true&amp;theme=dracula" alt="sherlin's GitHub stats">
 </p>
