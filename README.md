@@ -36,26 +36,29 @@ me = UI_UX_Engineer()
 me.say_hi()
 ```
 
-## Streaks
-<p align="center">
-  <a href="https://git.io/streak-stats">
+<br/><br/>
+
+## Github Stats:
+<table border="0" align="center">
+<tr border="0">
+  <td width="50%" align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=sherlin2003&amp;show_icons=true&amp;theme=dracula" alt="sherlin's GitHub stats">
+    <br></br>
     <img src="https://streak-stats.demolab.com?user=sherlin2003&amp;theme=dracula&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
+  </td>
 
+  <td width="50%" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlin2003&amp;theme=dracula" alt="Top Langs">
+  </td>
+</tr>
+</table>
 
+<br/><br/>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![Linkedin](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/swetha-muralidharan-71b30822b/)
 [![Twitter](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/Sherlin88210004?t=ZRhdpdxGng28PKglZtCrWA&s=08)
 
-
-<h2>Languages</h2>
-<p align="center">
-  <a href="https://github.com/sherlin2003/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlin2003&amp;theme=dracula" alt="Top Langs">
-  </a>
-</p>
 
 
  ## Skills
@@ -67,8 +70,4 @@ me.say_hi()
 
 <br> 
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherlin2003&amp;show_icons=true&amp;theme=dracula" alt="sherlin's GitHub stats">
-</p>
 
