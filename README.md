@@ -9,13 +9,14 @@
  -->
  
 <h2> Hi, I'm Swetha Muralidharan A.k.a Sherlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 <p>
   <em>
     Front end Developer and UI/UX Designer 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
   </em>
 </p>
+
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200" height="200" style="margin-top: 60px">
 
 ```python
 class UI_UX_Engineer:
