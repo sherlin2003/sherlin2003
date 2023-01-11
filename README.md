@@ -55,11 +55,11 @@ me.say_hi()
 
 <br/><br/>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+<!-- ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![Linkedin](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/swetha-muralidharan-71b30822b/)
 [![Twitter](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/Sherlin88210004?t=ZRhdpdxGng28PKglZtCrWA&s=08)
 
-
+ -->
 
  ## Skills
  <br>
@@ -69,5 +69,23 @@ me.say_hi()
 </p>
 
 <br> 
+
+## Links 
+<h3 align="center" > <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/swetha-muralidharan-71b30822b/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sherlin2003">
+		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sherlin4431/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Sherlin88210004?t=ZRhdpdxGng28PKglZtCrWA&s=08">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCO5gVJhnv3c5LVHPqfqQPgA">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+</p>
 
 
