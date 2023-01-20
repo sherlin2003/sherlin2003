@@ -86,9 +86,13 @@ me.say_hi()
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCO5gVJhnv3c5LVHPqfqQPgA">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/olhwlweszazkpz2y2ejsphbct">
-			<img src="https://img.icons8.com/doodle/1x/spotify--v2.png"></a>
-	
+			<img src="https://img.icons8.com/doodle/1x/spotify--v2.png"></a>	
  </div>
 </p>
+<br> 
+
+## Views
+ ![](https://gitwar.herokuapp.com/badge?username=sherlin2003&color=lightgrey)
+<br>
 
 
