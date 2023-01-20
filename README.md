@@ -50,6 +50,7 @@ me.say_hi()
   <td width="50%" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlin2003&amp;theme=dracula" alt="Top Langs">
   </td>
+ 
 </tr>
 </table>
 
@@ -89,10 +90,11 @@ me.say_hi()
 			<img src="https://img.icons8.com/doodle/1x/spotify--v2.png"></a>	
  </div>
 </p>
-<br> 
 
-## Views
- ![](https://gitwar.herokuapp.com/badge?username=sherlin2003&color=lightgrey)
-<br>
+<br> 
+<!-- 
+![Visitor Count](https://profile-counter.glitch.me/{sherlin2003}/count.svg)  -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sherlin2003&left_color=black&right_color=red) 
 
 
