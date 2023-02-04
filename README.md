@@ -65,7 +65,7 @@ me.say_hi()
  ## Skills
  <br>
 <p align="center"> <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,mysql,figma,java,cpp,javascript,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,react,atom,androidstudio,figma,html,bootstrap,javascript,python,mysql,java" />
   </a>
 </p>
 
