@@ -11,7 +11,7 @@
 <h2> Hi, I'm Swetha Muralidharan A.k.a Sherlin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 <p>
   <em>
-    Front end Developer and UI/UX Designer 
+     AR/VR Developer and UI/UX Designer 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
   </em>
 </p>
@@ -23,7 +23,7 @@ class AR_VR_Developer:
 
     def __init__(self):
         self.name = "Swetha Muralidharan"
-        self.role = "UI/UX Engineer"
+        self.role = "AR_VR_Developer"
         self.language_spoken = ["English", "Tamil", "Hindi", "Korean"]
         self.Hobbies = ["Dancing","Playing Instruments", "Painting"]
         
