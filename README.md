@@ -19,7 +19,7 @@
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200" height="200" style="margin-top: 60px">
 
 ```python
-class UI_UX_Engineer:
+class AR_VR_Developer:
 
     def __init__(self):
         self.name = "Swetha Muralidharan"
@@ -32,7 +32,7 @@ class UI_UX_Engineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = UI_UX_Engineer()
+me = AR_VR_Developer()
 me.say_hi()
 ```
 
